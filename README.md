@@ -14,4 +14,6 @@ O dataset Technical Support Dataset (https://www.kaggle.com/datasets/suvroo/tech
 
 Obs.: O dataset analisado se refere aos chamados (tíquetes) de suporte técnico no ano de 2023 em alguns países da Europa.
 
-O dataset foi copiado para a seguinte URL do Github: 'https://raw.githubusercontent.com/Andrea68A/Puc_Ciencia_Dados/refs/heads/mvp_trabalho/Technical%20Support%20Dataset.csv'
+O dataset foi copiado para a seguinte URL do Github: https://raw.githubusercontent.com/Andrea68A/Puc_Ciencia_Dados/refs/heads/mvp_trabalho/Technical%20Support%20Dataset.csv
+
+## Dicionário de dados
