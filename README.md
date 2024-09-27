@@ -1,5 +1,6 @@
 # Sobre o dataset de chamados abertos para o Suporte Técnico
-O dataset Technical Support Dataset (https://www.kaggle.com/datasets/suvroo/technical-support-dataset/data?select=Technical+Support+Dataset.csv) possibilita a análise e criação de indicadores sobre a resolução de Chamados de Suporte Técnico. Este dataset permite a classificação de um chamado segundo:
+O dataset Technical Support Dataset (https://www.kaggle.com/datasets/suvroo/technical-support-dataset/data?select=Technical+Support+Dataset.csv) possibilita a análise e criação de indicadores sobre a resolução de Chamados de Suporte Técnico. 
+Este dataset permite a classificação de um chamado segundo:
 A sua origem (por e-mail, chat ou telefone),
 O tópico / assunto abordado (ex: bug, configuração de produtos, etc.),
 A prioridade no atendimento (alta, média, baixa),
