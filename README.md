@@ -16,7 +16,7 @@ Obs.: O dataset analisado se refere aos chamados (tíquetes) de suporte técnico
 
 O dataset foi copiado para a seguinte URL do Github: https://raw.githubusercontent.com/Andrea68A/Puc_Ciencia_Dados/refs/heads/mvp_trabalho/Technical%20Support%20Dataset.csv
 
-## Link para o Colab
+## Link para o Google Colab
 
-O link para o Colab se encontra em https://colab.research.google.com/drive/1WBgdq_IIiyvv88v_u-2dB-pNYOu3rh8G
+O link para o notebook do Google Colab se encontra em https://colab.research.google.com/drive/1WBgdq_IIiyvv88v_u-2dB-pNYOu3rh8G
 
