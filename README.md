@@ -21,7 +21,7 @@ O dataset foi copiado para a seguinte URL do Github: https://raw.githubuserconte
 https://colab.research.google.com/github/Andrea68A/Puc_Ciencia_Dados/blob/mvp_trabalho/MVP_Dataset_Suporte_Tecnico_Andrea_final.ipynb
 
 
-## Dicionário de dados
+## Dicionário de dados - Technical Support Dataset
 
 https://github.com/Andrea68A/Puc_Ciencia_Dados/blob/mvp_trabalho/Dicionario_Dados_Technical_Support_Dataset.pdf
 
