@@ -12,6 +12,8 @@ Este projeto consiste em comparar as métricas de diferentes algoritmos de class
 O propósito deste trabalho consiste em auxiliar as instituições financeiras a reduzirem os riscos nos processos de concessão de empréstimo.
 
 
+## URL do dataset no Github ##
+
 O dataset foi copiado para a seguinte URL do Github: 
 https://raw.githubusercontent.com/Andrea68A/Puc_Ciencia_Dados/refs/heads/MVP_Machine_Learning/loan_data.csv
 
