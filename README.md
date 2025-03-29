@@ -1,4 +1,4 @@
-# Sobre o dataset de chamados abertos para o Suporte Técnico
+# Sobre o MVP de Engenharia de Dados
 
 O dataset Technical Support Dataset (https://www.kaggle.com/datasets/suvroo/technical-support-dataset/data?select=Technical+Support+Dataset.csv) possibilita a análise e criação de indicadores sobre a resolução de Chamados de Suporte Técnico. Este dataset permite a classificação de um chamado segundo:
 
