@@ -24,32 +24,6 @@ https://github.com/Andrea68A/Puc_Ciencia_Dados/blob/MVP_Engenharia_Dados/Catalog
 https://github.com/Andrea68A/Puc_Ciencia_Dados/blob/MVP_Engenharia_Dados/Modelo_Floco_Neve_Netflix_MVP.pdf
 
 
-# Links públicos no Databricks Community Edition, onde se encontram os notebooks
-
-# Notebook 000_Configurar_DBFS_e_pastas.ipynb
-
-Link para o notebook: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3814572266302145/815525683663273/8959396615508843/latest.html
-
-# Notebook 001_Importar_arquivos_raw.ipynb
-
-Link para notebook: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3814572266302145/4470911049895348/8959396615508843/latest.html
-
-
-# Notebook 002_Carregar_Camada_Bronze.ipynb
-
-Link para notebook: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3814572266302145/910373024565501/8959396615508843/latest.html
-
-# Notebook 003_Transformacoes_Camada_Silver_floco_neve.ipynb
-
-Link para o notebook: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3814572266302145/4178132741742921/8959396615508843/latest.html
-
-
-# Notebook 004_Camada_Gold_Floco_Neve.ipynb
-
-Link para o notebook: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3814572266302145/2676970212451849/8959396615508843/latest.html
-
-
-
 # Links para os notebooks ipynb no Github:
 
 https://github.com/Andrea68A/Puc_Ciencia_Dados/blob/MVP_Engenharia_Dados/000_Configurar_DBFS_e_pastas.ipynb
@@ -57,6 +31,48 @@ https://github.com/Andrea68A/Puc_Ciencia_Dados/blob/MVP_Engenharia_Dados/001_Imp
 https://github.com/Andrea68A/Puc_Ciencia_Dados/blob/MVP_Engenharia_Dados/002_Carregar_Camada_Bronze.ipynb
 https://github.com/Andrea68A/Puc_Ciencia_Dados/blob/MVP_Engenharia_Dados/003_Transformacoes_Camada_Silver_floco_neve.ipynb
 https://github.com/Andrea68A/Puc_Ciencia_Dados/blob/MVP_Engenharia_Dados/004_Camada_Gold_Floco_Neve.ipynb
+
+
+# Links públicos no Databricks Community Edition, onde se encontram os notebooks:
+
+Obs: Todos estes notebooks se encontram em https://github.com/Andrea68A/Puc_Ciencia_Dados/tree/MVP_Engenharia_Dados. Os links abaixo são referências da criação dos notebooks no ambiente Databricks.
+
+## Notebook 000_Configurar_DBFS_e_pastas.ipynb
+
+Este notebook é voltado para inicialização de valores e criação de pastas. Deve ser o primeiro a ser executado.
+
+Link para o notebook: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3814572266302145/815525683663273/8959396615508843/latest.html
+
+## Notebook 001_Importar_arquivos_raw.ipynb
+
+Este notebook tem como objetivo importar o dataset Kaggle sobre os filmes e seriados da Netflix, para o ambiente do Databricks. É o segundo a ser executado.
+
+Link para notebook: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3814572266302145/4470911049895348/8959396615508843/latest.html
+
+
+## Notebook 002_Carregar_Camada_Bronze.ipynb
+
+Este notebook consiste na ingestão do arquivo csv para uma tabela em formato delta. Não há qualquer modificação, paenas recepção dos dados brutos. É O terceiro a ser executado.
+
+Link para notebook: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3814572266302145/910373024565501/8959396615508843/latest.html
+
+
+## Notebook 003_Transformacoes_Camada_Silver_floco_neve.ipynb
+
+Este notebook é voltado para a limpeza, transformação e padronização dos dados. Abrange também o tratatamento de nulos e normalização de tabelas. É o quarto a ser executado. 
+
+Link para o notebook: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3814572266302145/4178132741742921/8959396615508843/latest.html
+
+
+# Notebook 004_Camada_Gold_Floco_Neve.ipynb
+
+Este notebook tem como objetivo realizar agregações analíticas, análise temporal e consultas de métricas de desempenho (ranqueamento). É o quarto notebook a ser executo.
+
+Link para o notebook: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3814572266302145/2676970212451849/8959396615508843/latest.html
+
+
+
+
 
 Este MVP possibilita a resposta às seguintes questões:
 
