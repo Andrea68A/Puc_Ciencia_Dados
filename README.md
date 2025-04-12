@@ -70,7 +70,7 @@ Link para notebook: https://databricks-prod-cloudfront.cloud.databricks.com/publ
 
 ## Notebook 003_Transformacoes_Camada_Silver_floco_neve.ipynb
 
-Este notebook é voltado para a limpeza, transformação e padronização dos dados. Abrange também o tratatamento de nulos e normalização de tabelas. É o quarto a ser executado. 
+Este notebook é voltado para a limpeza, transformação e padronização dos dados. Abrange também o tratamento de nulos e normalização de tabelas. É o quarto a ser executado. 
 
 Link para o notebook: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3814572266302145/4178132741742921/8959396615508843/latest.html
 
