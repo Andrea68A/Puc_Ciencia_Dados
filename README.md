@@ -77,7 +77,7 @@ Link para o notebook: https://databricks-prod-cloudfront.cloud.databricks.com/pu
 
 ## Notebook 004_Camada_Gold_Floco_Neve.ipynb
 
-Este notebook tem como objetivo realizar agregações analíticas, análise temporal e consultas de métricas de desempenho (ranqueamento). É o quarto notebook a ser executo.
+Este notebook tem como objetivo realizar agregações analíticas, análise temporal e consultas de métricas de desempenho (ranqueamento). É o último a ser executo.
 
 Link para o notebook: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3814572266302145/2676970212451849/8959396615508843/latest.html
 
