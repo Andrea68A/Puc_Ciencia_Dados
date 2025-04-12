@@ -9,6 +9,8 @@ O dataset Netflix Movies and TV Shows contém as produções lançadas entre 192
 
 Este documento fornece um relatório contendo a visão geral do problema a ser resolvido, a descrição da estrutura do trabalho, as evidências, a autoavaliação e as conclusões.
 
+https://github.com/Andrea68A/Puc_Ciencia_Dados/blob/MVP_Engenharia_Dados/Relatorio_MVP_Engenharia%20de%20Dados.pdf
+
 
 
 
