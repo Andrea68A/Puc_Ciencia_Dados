@@ -63,7 +63,7 @@ Link para notebook: https://databricks-prod-cloudfront.cloud.databricks.com/publ
 
 ## Notebook 002_Carregar_Camada_Bronze.ipynb
 
-Este notebook consiste na ingestão do arquivo csv para uma tabela em formato delta. Não há qualquer modificação, paenas recepção dos dados brutos. É O terceiro a ser executado.
+Este notebook consiste na ingestão do arquivo csv para uma tabela em formato delta. Não há qualquer modificação, apenas recepção dos dados brutos. É O terceiro a ser executado.
 
 Link para notebook: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3814572266302145/910373024565501/8959396615508843/latest.html
 
