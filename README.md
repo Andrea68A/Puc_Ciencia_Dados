@@ -4,6 +4,14 @@ Este projeto visa analisar o catálogo global de filmes e séries da Netflix par
 
 O dataset Netflix Movies and TV Shows contém as produções lançadas entre 1925 e 2021 e encontra-se em: https://www.kaggle.com/datasets/shivamb/netflix-shows?select=netflix_titles.csv.
 
+
+# Relatório do MVP 
+
+Este documento fornece um relatório contendo a visão geral do problema a ser resolvido, a descrição da estrutura do trabalho, as evidências, a autoavaliação e as conclusões.
+
+
+
+
 # Link Público GitHub para o MVP de Engenharia de Dados
 
 https://github.com/Andrea68A/Puc_Ciencia_Dados/tree/MVP_Engenharia_Dados - repositório para o MVP de Engenharia de Dados
@@ -13,6 +21,7 @@ https://github.com/Andrea68A/Puc_Ciencia_Dados/tree/MVP_Engenharia_Dados - repos
 Arquivo armazenado em formato csv: https://raw.githubusercontent.com/Andrea68A/Puc_Ciencia_Dados/refs/heads/MVP_Engenharia_Dados/netflix_titles.csv
 
 Referência: https://www.kaggle.com/datasets/shivamb/netflix-shows?select=netflix_titles.csv
+
 
 # Catálogo camada gold
 
@@ -35,7 +44,7 @@ https://github.com/Andrea68A/Puc_Ciencia_Dados/blob/MVP_Engenharia_Dados/004_Cam
 
 # Links públicos no Databricks Community Edition, onde se encontram os notebooks:
 
-Obs: Todos estes notebooks se encontram em https://github.com/Andrea68A/Puc_Ciencia_Dados/tree/MVP_Engenharia_Dados. Os links abaixo são referências da criação dos notebooks no ambiente Databricks.
+Obs: Todos estes notebooks se encontram em https://github.com/Andrea68A/Puc_Ciencia_Dados/tree/MVP_Engenharia_Dados. Os links abaixo são evidências da criação dos notebooks no ambiente Databricks.
 
 ## Notebook 000_Configurar_DBFS_e_pastas.ipynb
 
@@ -64,7 +73,7 @@ Este notebook é voltado para a limpeza, transformação e padronização dos da
 Link para o notebook: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3814572266302145/4178132741742921/8959396615508843/latest.html
 
 
-# Notebook 004_Camada_Gold_Floco_Neve.ipynb
+## Notebook 004_Camada_Gold_Floco_Neve.ipynb
 
 Este notebook tem como objetivo realizar agregações analíticas, análise temporal e consultas de métricas de desempenho (ranqueamento). É o quarto notebook a ser executo.
 
@@ -72,7 +81,7 @@ Link para o notebook: https://databricks-prod-cloudfront.cloud.databricks.com/pu
 
 
 
-
+# Visão geral
 
 Este MVP possibilita a resposta às seguintes questões:
 
