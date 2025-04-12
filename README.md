@@ -1,6 +1,6 @@
 # Sobre o MVP de Engenharia de Dados - dataset Netflix de filmes e seriados
 
-O dataset Netflix Movies and TV Shows (https://www.kaggle.com/datasets/shivamb/netflix-shows?select=netflix_titles.csv) possibilita Este projeto visa analisar o catálogo global de filmes e séries da Netflix para identificar tendências temporais, distribuição por gênero/país e métricas de desempenho. O objetivo é criar um pipeline de dados que transforme dados brutos em consultas que forneçam subsídios às tomadas de decisão. Foi utilizada a tecnologia em nuvem Databricks Comunity Edition, que permite a criação de cluster para a construção de pipelines de dados. O projeto envolve a busca, coleta, modelagem, carga e análise de dados.
+Este projeto visa analisar o catálogo global de filmes e séries da Netflix para identificar tendências temporais, distribuição por gênero/país e métricas de desempenho. O objetivo é criar um pipeline de dados que transforme dados brutos em consultas que forneçam subsídios às tomadas de decisão. Foi utilizada a tecnologia em nuvem Databricks Comunity Edition, que permite a criação de cluster para a construção de pipelines de dados. O projeto envolve a busca, coleta, modelagem, carga e análise de dados.
 
 O dataset Netflix Movies and TV Shows contém as produções lançadas entre 1925 e 2021 e encontra-se em: https://www.kaggle.com/datasets/shivamb/netflix-shows?select=netflix_titles.csv.
 
