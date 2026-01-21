@@ -19,11 +19,12 @@ https://raw.githubusercontent.com/Andrea68A/Puc_Ciencia_Dados/refs/heads/MVP_Mac
 
 
 
-## Link para o Google Colab ##
+## Link para o Google Colab - Atualizado em 26/1/2026 ##
 
 
 
-https://colab.research.google.com/github/Andrea68A/Puc_Ciencia_Dados/blob/MVP_Machine_Learning/MVP_dataset_emprestimo_Andrea.ipynb
+
+https://colab.research.google.com/github/Andrea68A/Puc_Ciencia_Dados/blob/MVP_Machine_Learning/Copia_MVP_dataset_emprestimo_Andrea.ipynb
 
 
 
